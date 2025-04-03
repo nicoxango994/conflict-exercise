@@ -1,3 +1,4 @@
 # conflict-exercise
-# Nueva linea agregada en main. 
-# Nueva linea agregada en main.
+
+# Este es un cambio en la feature branch.
+
